@@ -1,0 +1,111 @@
+! Custom ad filter list
+! Requested
+||manage.player24k.com^
+||worncalmy.cfd^
+||nappyonsetstiffness.com^
+||hmadkixrebk.in^
+! Google ads
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||googletagservices.com^
+||adservice.google.com^
+||pagead2.googlesyndication.com^
+! Ad exchanges / networks
+||adnxs.com^
+||rubiconproject.com^
+||pubmatic.com^
+||openx.net^
+||adsrvr.org^
+||amazon-adsystem.com^
+||casalemedia.com^
+||indexww.com^
+||adform.net^
+||smartadserver.com^
+||criteo.com^
+||criteo.net^
+||media.net^
+||advertising.com^
+||bidswitch.net^
+||contextweb.com^
+||lijit.com^
+||sovrn.com^
+||sharethrough.com^
+||yieldmo.com^
+||33across.com^
+||zedo.com^
+||moatads.com^
+||scorecardresearch.com^
+! Native / recommendation ads
+||taboola.com^
+||outbrain.com^
+||revcontent.com^
+||mgid.com^
+! Mobile / app ads
+||applovin.com^
+||adcolony.com^
+||unityads.unity3d.com^
+||ads.mopub.com^
+||inmobi.com^
+||startapp.com^
+! Social ad trackers
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||ads.twitter.com^
+||ads-api.twitter.com^
+||static.ads-twitter.com^
+||ads.linkedin.com^
+||ads.pinterest.com^
+||ads.yahoo.com^
+! Popups / popunders / push ads
+||popads.net^
+||popcash.net^
+||propellerads.com^
+||exoclick.com^
+||juicyads.com^
+||trafficjunky.com^
+||clickadu.com^
+||adsterra.com^
+||hilltopads.net^
+||adcash.com^
+||onclickads.net^
+||pushails.com^
+||richpush.co^
+! Generic URL patterns
+/adserver/*
+/ads/banner*
+/banner_ads/*
+/popunder.
+/pop-under.
+/adframe.
+/ad-loader.
+! Cosmetic (hide ad containers)
+##ins.adsbygoogle
+##.adsbygoogle
+###ad-banner
+###ad-container
+##.ad-container
+##.ad-banner
+##.ad-slot
+##.ad-wrapper
+##[id^="google_ads"]
+##[id^="div-gpt-ad"]
+##iframe[src*="doubleclick.net"]
+##iframe[src*="googlesyndication.com"]
+
+fairyanime.net###kosana
+fairyanime.net##.banner-size-long.w-100.v-middle.lazy
+fairyanime.net##[href*="https\:\/\/ibit\.ly\/kingdom66\/"] > .banner-size-straight.w-100.v-middle.lazy
+fairyanime.net##.banner-close-button-wrapper-left > a
+fairyanime.net###bottom-closed-l-0
+fairyanime.net##.banner-close-button-wrapper > a
+fairyanime.net##[href*="https\:\/\/ibit\.ly\/ufanance"] > .kosana-banner.lazy
+fairyanime.net##[href*="https\:\/\/ibit\.ly\/ufabomb"] > .kosana-banner.lazy
+
+www.fin-manga.com##.wrapper > div.center_finmangaza
+www.fin-manga.com##.wrapper > div.center_finmanga
+www.fin-manga.com###sticky-bottom3
+www.fin-manga.com##.floating_content.mobile-float-right
+www.fin-manga.com##div.floating_content:nth-of-type(10) > a.sticky-close:nth-of-type(1) > [src*="https\:\/\/www\.fin-manga\.com\/wp-content\/uploads\/2025\/11\/close\.png"]
+www.fin-manga.com##.sticky-bottom-inside
+www.fin-manga.com###sticky-bottom

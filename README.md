@@ -1,2 +1,2 @@
-# TonyAPI-Adblock-list
-This is my personal Adblock list feel free to use it. It might not be much but at least it's something
+This is the Adblock lists that I personally use
+This list is completely original and is made purely by me with some AI assistance
