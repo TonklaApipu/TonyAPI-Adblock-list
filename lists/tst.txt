@@ -1,0 +1,16 @@
+fairyanime.net###kosana
+fairyanime.net##.banner-size-long.w-100.v-middle.lazy
+fairyanime.net##[href*="https\:\/\/ibit\.ly\/kingdom66\/"] > .banner-size-straight.w-100.v-middle.lazy
+fairyanime.net##.banner-close-button-wrapper-left > a
+fairyanime.net###bottom-closed-l-0
+fairyanime.net##.banner-close-button-wrapper > a
+fairyanime.net##[href*="https\:\/\/ibit\.ly\/ufanance"] > .kosana-banner.lazy
+fairyanime.net##[href*="https\:\/\/ibit\.ly\/ufabomb"] > .kosana-banner.lazy
+
+www.fin-manga.com##.wrapper > div.center_finmangaza
+www.fin-manga.com##.wrapper > div.center_finmanga
+www.fin-manga.com###sticky-bottom3
+www.fin-manga.com##.floating_content.mobile-float-right
+www.fin-manga.com##div.floating_content:nth-of-type(10) > a.sticky-close:nth-of-type(1) > [src*="https\:\/\/www\.fin-manga\.com\/wp-content\/uploads\/2025\/11\/close\.png"]
+www.fin-manga.com##.sticky-bottom-inside
+www.fin-manga.com###sticky-bottom
